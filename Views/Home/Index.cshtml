@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Seleccione una bandera para ver su informacion";
+}
+<div class="text-center">
+    <link rel= "stylesheet" href="style.css">
+    <h1>@ViewData["Title"]</h1>
+    @foreach (var item in ViewBag.ListaPaises)
+    {
+        <tr>
+            <a href='@Url.Action("DetallePais", new {idPais = item.Identificador})'><img src="/@item.imgBandera" alt="bandera pais @item.imgBandera" height="200px"></a>
+        </tr>
+    } 
+</div>
+
+

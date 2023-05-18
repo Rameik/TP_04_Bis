@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Detalles del pais";
+}
+
+<div class="text-center">
+    <h1>@ViewData["Title"]</h1>
+
+    <h2>Nombre:</h2>
+    <p>@ViewBag.Pais.Nombre</p>
+
+    <h2>Bandera:</h2>
+    <img src="/@ViewBag.Pais.imgBandera" alt="bandera pais @ViewBag.Pais.imgBandera">
+
+    <h2>Poblacion:</h2>
+    <p>@ViewBag.Pais.Poblacion millones</p>
+
+    <h2>Fecha de independencia:</h2>
+    <p>@ViewBag.Pais.FechaIndependencia</p>
+
+    <h2>Atractivos turisticos:</h2>
+    <p>@ViewBag.Pais.AtractivosTuristicos</p>
+
+    <h2>Himno:</h2>
+    <audio controls>
+        <source src="/@ViewBag.Pais.Himno" type="audio/mp3">
+    </audio>
+
+    <form action='@Url.Action("Index")'>
+        <p><input type = "submit" value = "Volver"></p>
+    </form>
+</div>

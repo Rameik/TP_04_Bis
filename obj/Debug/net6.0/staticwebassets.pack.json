@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP_04_Bis.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP_04_Bis.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\bandera-argentina.png",
+      "PackagePath": "staticwebassets\\bandera-argentina.png"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\bandera-brasil.png",
+      "PackagePath": "staticwebassets\\bandera-brasil.png"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\bandera-espa├▒a.png",
+      "PackagePath": "staticwebassets\\bandera-espa├▒a.png"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\bandera-francia.png",
+      "PackagePath": "staticwebassets\\bandera-francia.png"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\bandera-italia.png",
+      "PackagePath": "staticwebassets\\bandera-italia.png"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\himno-argentina.mp3",
+      "PackagePath": "staticwebassets\\himno-argentina.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\himno-brasil.mp3",
+      "PackagePath": "staticwebassets\\himno-brasil.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\himno-espa├▒a.mp3",
+      "PackagePath": "staticwebassets\\himno-espa├▒a.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\himno-francia.mp3",
+      "PackagePath": "staticwebassets\\himno-francia.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\himno-italia.mp3",
+      "PackagePath": "staticwebassets\\himno-italia.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\OneDrive\\Documentos\\Ramiro\\Escuela\\4to Año\\Programacion\\TP_04_Bis\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TP_04_Bis.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TP_04_Bis.props",
+      "PackagePath": "build\\TP_04_Bis.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TP_04_Bis.props",
+      "PackagePath": "buildMultiTargeting\\TP_04_Bis.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TP_04_Bis.props",
+      "PackagePath": "buildTransitive\\TP_04_Bis.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
